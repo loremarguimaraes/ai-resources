@@ -6,12 +6,12 @@ Real-world AI applications, enterprise implementations, and strategies for ident
 
 1. **AI in the Enterprise** — by :contentReference[oaicite:0]{index=0}  
    Strategic implementation guide for business leaders.  
-   👉 https://lnkd.in/gER8JzJk
+   👉 https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
 
 2. **Identifying and Scaling AI Use Cases** — by OpenAI  
    From pilot projects to production deployment.  
-   👉 https://lnkd.in/gwfSctBN
+   👉 https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
 
 3. **601 Real-World Gen AI Use Cases** — by Google  
    Industry-proven applications.  
-   👉 https://lnkd.in/gtD8XnAQ
+   👉 https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
