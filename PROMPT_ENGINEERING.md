@@ -4,14 +4,14 @@ Resources and guides for mastering the art of communicating with AI through effe
 
 ## Resources
 
-1. **Prompt Engineering** — by Anthropic  
+1. **Prompt Engineering** — by Anthropic
    Master the art of communicating with AI.  
-   👉 https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
+   👉 <a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener noreferrer">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview</a>
 
-2. **Prompting Guide 101** — by :contentReference[oaicite:2]{index=2}  
+2. **Prompting Guide 101** — by Google
    Gemini workspace optimization techniques.  
-   👉 https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
+   👉 <a href="https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf" target="_blank" rel="noopener noreferrer">https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf</a>
 
-3. **Prompt Engineering** — by Google  
+3. **Prompt Engineering** — by Google
    Advanced prompting strategies and patterns.  
-   👉 https://www.kaggle.com/whitepaper-prompt-engineering
+   👉 <a href="https://www.kaggle.com/whitepaper-prompt-engineering" target="_blank" rel="noopener noreferrer">https://www.kaggle.com/whitepaper-prompt-engineering</a>
